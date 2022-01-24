@@ -1,6 +1,6 @@
 # Task_3
 Tạo cây gia đình từ file Json tải lên 
-Công nghệ sử dụng : node.js, bootstrap 4, jquery
+  sử dụng công nghệ  : node.js, bootstrap 4, jquery
 ## Cách chạy hệ thống
 Clone project; nhập lệnh " npm i" để cài node_modules; trên màn hình console, nhập lệnh "npm start" để chạy chương trình.
 ## Yêu cầu 
